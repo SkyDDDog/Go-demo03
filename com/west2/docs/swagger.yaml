@@ -1,0 +1,195 @@
+basePath: /api
+host: 127.0.0.1:1234
+info:
+  contact:
+    email: lear_yd@qq.com
+    name: 二火
+    url: https://github.com/SkyDDDog
+  description: West2-Golang-Demo03
+  license:
+    name: Apache 2.0
+    url: http://www.apache.org/licenses/LICENSE-2.0.html
+  termsOfService: https://github.com/SkyDDDog/demo03
+  title: 小黄老师备忘录
+  version: "1.0"
+paths:
+  /note:
+    post:
+      consumes:
+      - application/json
+      description: 添加一条待办事项
+      parameters:
+      - description: note
+        in: body
+        name: string
+        schema:
+          type: string
+      produces:
+      - application/json
+      responses:
+        "200":
+          description: OK
+          schema:
+            type: string
+      summary: 新增待办
+      tags:
+      - NoteController
+  /note/{id}:
+    delete:
+      description: 删除 一条 事项
+      parameters:
+      - description: id
+        in: path
+        name: string
+        type: string
+      responses:
+        "200":
+          description: OK
+          schema:
+            type: string
+      summary: 删除事项
+      tags:
+      - NoteController
+  /note/all:
+    delete:
+      description: 删除 所有 事项
+      responses:
+        "200":
+          description: OK
+          schema:
+            type: string
+      summary: 删除事项
+      tags:
+      - NoteController
+  /note/done:
+    delete:
+      description: 删除 所有已经完成 事项
+      responses:
+        "200":
+          description: OK
+          schema:
+            type: string
+      summary: 删除事项
+      tags:
+      - NoteController
+    put:
+      description: 将 多条 代办事项设置为已完成
+      responses:
+        "200":
+          description: OK
+          schema:
+            type: string
+      summary: 完成待办
+      tags:
+      - NoteController
+  /note/done/{id}:
+    put:
+      description: 将 一条 代办事项设置为已完成
+      parameters:
+      - description: note
+        in: path
+        name: string
+        type: string
+      responses:
+        "200":
+          description: OK
+          schema:
+            type: string
+      summary: 完成待办
+      tags:
+      - NoteController
+  /note/undo:
+    delete:
+      description: 删除 所有待办 事项
+      responses:
+        "200":
+          description: OK
+          schema:
+            type: string
+      summary: 删除事项
+      tags:
+      - NoteController
+    put:
+      description: 将 多条 已完成事项设置为待办
+      responses:
+        "200":
+          description: OK
+          schema:
+            type: string
+      summary: 设为待办
+      tags:
+      - NoteController
+  /note/undo/{id}:
+    put:
+      description: 将 一条 已完成事项设置为待办
+      parameters:
+      - description: note
+        in: path
+        name: string
+        type: string
+      responses:
+        "200":
+          description: OK
+          schema:
+            type: string
+      summary: 设为待办
+      tags:
+      - NoteController
+  /test/ping:
+    get:
+      consumes:
+      - application/json
+      description: 测试
+      produces:
+      - application/json
+      responses:
+        "200":
+          description: OK
+          schema:
+            type: string
+      summary: Ping!
+      tags:
+      - TestController
+  /user/login:
+    post:
+      consumes:
+      - application/json
+      description: 用户登录
+      parameters:
+      - description: 用户vo
+        in: body
+        name: string
+        schema:
+          type: string
+      produces:
+      - application/json
+      responses:
+        "200":
+          description: OK
+          schema:
+            type: string
+      summary: 用户登录
+      tags:
+      - UserController
+  /user/register:
+    post:
+      consumes:
+      - application/json
+      description: 用户注册
+      parameters:
+      - description: 用户vo
+        in: body
+        name: string
+        schema:
+          type: string
+      produces:
+      - application/json
+      responses:
+        "200":
+          description: OK
+          schema:
+            type: string
+      summary: 创建用户
+      tags:
+      - UserController
+swagger: "2.0"

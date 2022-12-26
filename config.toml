@@ -1,0 +1,12 @@
+appName = "West2-Golang-Demo03"
+
+[log]
+level = "debug"
+path = "logs/log.log"
+
+[mysql]
+host = "127.0.0.1"
+port = "3306"
+username = "root"
+password = "9738faq"
+database = "demo03"

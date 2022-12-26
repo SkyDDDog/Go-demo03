@@ -1,0 +1,188 @@
+2022-12-14T11:38:30.454+0800	info	F:/Project/GoProjects/demo03/com/west2/config/log/logger.go:90	Logger init success	{"application": "test-gin"}
+2022-12-14T11:42:20.969+0800	info	F:/Project/GoProjects/demo03/com/west2/config/log/logger.go:90	Logger init success	{"application": "test-gin"}
+2022-12-14T11:46:16.733+0800	info	F:/Project/GoProjects/demo03/com/west2/config/log/logger.go:90	Logger init success	{"application": "test-gin"}
+2022-12-14T20:10:17.100+0800	info	F:/Project/GoProjects/demo03/com/west2/config/log/logger.go:90	Logger init success	{"application": "test-gin"}
+2022-12-14T20:12:40.928+0800	info	F:/Project/GoProjects/demo03/com/west2/config/log/logger.go:90	Logger init success	{"application": "test-gin"}
+2022-12-14T20:14:44.005+0800	info	F:/Project/GoProjects/demo03/com/west2/config/log/logger.go:90	Logger init success	{"application": "test-gin"}
+2022-12-14T20:15:15.752+0800	info	F:/Project/GoProjects/demo03/com/west2/config/log/logger.go:90	Logger init success	{"application": "test-gin"}
+2022-12-14T20:15:43.756+0800	info	F:/Project/GoProjects/demo03/com/west2/config/log/logger.go:90	Logger init success	{"application": "test-gin"}
+2022-12-14T20:18:55.385+0800	info	F:/Project/GoProjects/demo03/com/west2/config/log/logger.go:90	Logger init success	{"application": "test-gin"}
+2022-12-14T20:38:47.089+0800	info	F:/Project/GoProjects/demo03/com/west2/config/log/logger.go:90	Logger init success	{"application": "test-gin"}
+2022-12-14T20:40:53.288+0800	info	F:/Project/GoProjects/demo03/com/west2/config/log/logger.go:90	Logger init success	{"application": "test-gin"}
+2022-12-18T20:27:12.707+0800	info	F:/Project/GoProjects/demo03/com/west2/config/log/logger.go:90	Logger init success	{"application": "test-gin"}
+2022-12-25T19:43:58.189+0800	info	F:/Project/GoProjects/demo03/com/west2/config/log/logger.go:90	Logger init success	{"application": "test-gin"}
+2022-12-25T20:04:03.935+0800	info	F:/Project/GoProjects/demo03/com/west2/config/log/logger.go:90	Logger init success	{"application": "test-gin"}
+2022-12-25T20:08:51.566+0800	info	F:/Project/GoProjects/demo03/com/west2/config/log/logger.go:90	Logger init success	{"application": "test-gin"}
+2022-12-25T20:42:22.766+0800	info	F:/Project/GoProjects/demo03/com/west2/config/log/logger.go:90	Logger init success	{"application": "test-gin"}
+2022-12-25T21:10:24.477+0800	info	F:/Project/GoProjects/demo03/com/west2/config/log/logger.go:90	Logger init success	{"application": "test-gin"}
+2022-12-25T21:10:48.154+0800	info	F:/Project/GoProjects/demo03/com/west2/controller/UserController.go:68		{"application": "test-gin"}
+2022-12-25T21:20:00.500+0800	info	F:/Project/GoProjects/demo03/com/west2/controller/UserController.go:68	123456	{"application": "test-gin"}
+2022-12-25T21:20:07.731+0800	info	F:/Project/GoProjects/demo03/com/west2/controller/UserController.go:68	123456	{"application": "test-gin"}
+2022-12-25T21:20:19.225+0800	info	F:/Project/GoProjects/demo03/com/west2/controller/UserController.go:68	123456	{"application": "test-gin"}
+2022-12-25T21:39:24.598+0800	info	F:/Project/GoProjects/demo03/com/west2/config/log/logger.go:90	Logger init success	{"application": "West2"}
+2022-12-25T22:01:39.022+0800	info	F:/Project/GoProjects/demo03/com/west2/controller/UserController.go:68	123456	{"application": "West2"}
+2022-12-25T22:02:23.020+0800	info	F:/Project/GoProjects/demo03/com/west2/config/log/logger.go:90	Logger init success	{"application": "West2"}
+2022-12-25T22:02:26.165+0800	info	F:/Project/GoProjects/demo03/com/west2/controller/UserController.go:68	123456	{"application": "West2"}
+2022-12-25T22:02:26.167+0800	info	F:/Project/GoProjects/demo03/com/west2/controller/UserController.go:70		{"application": "West2"}
+2022-12-25T22:16:15.199+0800	info	F:/Project/GoProjects/demo03/com/west2/config/log/logger.go:90	Logger init success	{"application": "West2"}
+2022-12-25T22:21:53.579+0800	info	F:/Project/GoProjects/demo03/com/west2/controller/UserController.go:68	123456	{"application": "West2"}
+2022-12-25T22:21:53.583+0800	info	F:/Project/GoProjects/demo03/com/west2/controller/UserController.go:70	$2a$10$IB8s9pnQMg15CaDkVIjnhO8F9tnbPv9mA6/JkJUqcXOxUejDWpCy.	{"application": "West2"}
+2022-12-25T22:42:04.045+0800	info	F:/Project/GoProjects/demo03/com/west2/config/log/logger.go:90	Logger init success	{"application": "West2"}
+2022-12-25T23:33:58.571+0800	info	F:/Project/GoProjects/demo03/com/west2/config/log/logger.go:90	Logger init success	{"application": "West2"}
+2022-12-25T23:34:44.815+0800	info	F:/Project/GoProjects/demo03/com/west2/config/log/logger.go:90	Logger init success	{"application": "West2"}
+2022-12-25T23:35:08.736+0800	info	F:/Project/GoProjects/demo03/com/west2/config/log/logger.go:90	Logger init success	{"application": "West2"}
+2022-12-25T23:36:44.393+0800	info	F:/Project/GoProjects/demo03/com/west2/config/log/logger.go:90	Logger init success	{"application": "West2"}
+2022-12-25T23:37:18.423+0800	info	F:/Project/GoProjects/demo03/com/west2/controller/NoteController.go:33		{"application": "West2"}
+2022-12-25T23:40:39.606+0800	info	F:/Project/GoProjects/demo03/com/west2/controller/NoteController.go:33		{"application": "West2"}
+2022-12-25T23:41:15.879+0800	info	F:/Project/GoProjects/demo03/com/west2/controller/NoteController.go:33		{"application": "West2"}
+2022-12-25T23:42:22.439+0800	info	F:/Project/GoProjects/demo03/com/west2/config/log/logger.go:90	Logger init success	{"application": "West2"}
+2022-12-25T23:42:39.862+0800	info	F:/Project/GoProjects/demo03/com/west2/controller/NoteController.go:33		{"application": "West2"}
+2022-12-25T23:42:52.290+0800	info	F:/Project/GoProjects/demo03/com/west2/controller/NoteController.go:33		{"application": "West2"}
+2022-12-25T23:43:02.653+0800	info	F:/Project/GoProjects/demo03/com/west2/controller/NoteController.go:33		{"application": "West2"}
+2022-12-25T23:43:38.662+0800	info	F:/Project/GoProjects/demo03/com/west2/controller/NoteController.go:33		{"application": "West2"}
+2022-12-25T23:46:14.033+0800	info	F:/Project/GoProjects/demo03/com/west2/config/log/logger.go:90	Logger init success	{"application": "West2"}
+2022-12-25T23:46:14.099+0800	info	F:/Project/GoProjects/demo03/com/west2/handler/HeaderHandler.go:11	!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!	{"application": "West2"}
+2022-12-25T23:46:19.104+0800	info	F:/Project/GoProjects/demo03/com/west2/controller/NoteController.go:33		{"application": "West2"}
+2022-12-25T23:48:39.032+0800	info	F:/Project/GoProjects/demo03/com/west2/config/log/logger.go:90	Logger init success	{"application": "West2"}
+2022-12-25T23:48:39.087+0800	info	F:/Project/GoProjects/demo03/com/west2/handler/HeaderHandler.go:11	!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!	{"application": "West2"}
+2022-12-25T23:48:42.795+0800	info	F:/Project/GoProjects/demo03/com/west2/controller/NoteController.go:33		{"application": "West2"}
+2022-12-25T23:49:52.554+0800	info	F:/Project/GoProjects/demo03/com/west2/controller/NoteController.go:33		{"application": "West2"}
+2022-12-25T23:51:35.096+0800	info	F:/Project/GoProjects/demo03/com/west2/config/log/logger.go:90	Logger init success	{"application": "West2"}
+2022-12-25T23:51:44.483+0800	info	F:/Project/GoProjects/demo03/com/west2/controller/NoteController.go:33		{"application": "West2"}
+2022-12-25T23:52:19.950+0800	info	F:/Project/GoProjects/demo03/com/west2/config/log/logger.go:90	Logger init success	{"application": "West2"}
+2022-12-25T23:52:36.506+0800	info	F:/Project/GoProjects/demo03/com/west2/controller/NoteController.go:33		{"application": "West2"}
+2022-12-25T23:53:18.126+0800	info	F:/Project/GoProjects/demo03/com/west2/controller/NoteController.go:33		{"application": "West2"}
+2022-12-25T23:53:37.210+0800	info	F:/Project/GoProjects/demo03/com/west2/config/log/logger.go:90	Logger init success	{"application": "West2"}
+2022-12-25T23:53:40.120+0800	info	F:/Project/GoProjects/demo03/com/west2/controller/NoteController.go:33		{"application": "West2"}
+2022-12-25T23:54:40.286+0800	info	F:/Project/GoProjects/demo03/com/west2/config/log/logger.go:90	Logger init success	{"application": "West2"}
+2022-12-25T23:55:00.005+0800	info	F:/Project/GoProjects/demo03/com/west2/controller/NoteController.go:33		{"application": "West2"}
+2022-12-25T23:56:16.028+0800	info	F:/Project/GoProjects/demo03/com/west2/config/log/logger.go:90	Logger init success	{"application": "West2"}
+2022-12-25T23:56:25.218+0800	info	F:/Project/GoProjects/demo03/com/west2/controller/NoteController.go:33		{"application": "West2"}
+2022-12-26T00:04:08.409+0800	info	F:/Project/GoProjects/demo03/com/west2/config/log/logger.go:90	Logger init success	{"application": "West2"}
+2022-12-26T00:04:55.848+0800	info	F:/Project/GoProjects/demo03/com/west2/controller/NoteController.go:33		{"application": "West2"}
+2022-12-26T00:05:07.462+0800	info	F:/Project/GoProjects/demo03/com/west2/controller/NoteController.go:33		{"application": "West2"}
+2022-12-26T00:07:00.985+0800	info	F:/Project/GoProjects/demo03/com/west2/config/log/logger.go:90	Logger init success	{"application": "West2"}
+2022-12-26T00:07:06.012+0800	info	F:/Project/GoProjects/demo03/com/west2/controller/NoteController.go:33		{"application": "West2"}
+2022-12-26T00:07:37.268+0800	info	F:/Project/GoProjects/demo03/com/west2/config/log/logger.go:90	Logger init success	{"application": "West2"}
+2022-12-26T00:07:41.323+0800	info	F:/Project/GoProjects/demo03/com/west2/controller/NoteController.go:33		{"application": "West2"}
+2022-12-26T00:08:08.491+0800	info	F:/Project/GoProjects/demo03/com/west2/controller/NoteController.go:33		{"application": "West2"}
+2022-12-26T00:09:46.392+0800	info	F:/Project/GoProjects/demo03/com/west2/config/log/logger.go:90	Logger init success	{"application": "West2"}
+2022-12-26T00:09:49.596+0800	info	F:/Project/GoProjects/demo03/com/west2/handler/HeaderHandler.go:15	eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRlc3QiLCJwYXNzd29yZCI6IjEyMzQ1NiIsImV4cCI6MTcwMzUxODc2NiwiaXNzIjoiTXJIdWFuZyJ9.HHSyw9oDCkdWdoluiD69hU8IDukiBliahkzblOhEDkE	{"application": "West2"}
+2022-12-26T00:09:49.597+0800	info	F:/Project/GoProjects/demo03/com/west2/handler/HeaderHandler.go:29	eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRlc3QiLCJwYXNzd29yZCI6IjEyMzQ1NiIsImV4cCI6MTcwMzUxODc2NiwiaXNzIjoiTXJIdWFuZyJ9.HHSyw9oDCkdWdoluiD69hU8IDukiBliahkzblOhEDkE	{"application": "West2"}
+2022-12-26T00:09:49.597+0800	info	F:/Project/GoProjects/demo03/com/west2/controller/NoteController.go:33		{"application": "West2"}
+2022-12-26T00:10:39.236+0800	info	F:/Project/GoProjects/demo03/com/west2/config/log/logger.go:90	Logger init success	{"application": "West2"}
+2022-12-26T00:10:44.028+0800	info	F:/Project/GoProjects/demo03/com/west2/handler/HeaderHandler.go:14	eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRlc3QiLCJwYXNzd29yZCI6IjEyMzQ1NiIsImV4cCI6MTcwMzUxODc2NiwiaXNzIjoiTXJIdWFuZyJ9.HHSyw9oDCkdWdoluiD69hU8IDukiBliahkzblOhEDkE	{"application": "West2"}
+2022-12-26T00:10:44.029+0800	info	F:/Project/GoProjects/demo03/com/west2/controller/NoteController.go:33		{"application": "West2"}
+2022-12-26T00:11:28.828+0800	info	F:/Project/GoProjects/demo03/com/west2/handler/HeaderHandler.go:14	eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRlc3QiLCJwYXNzd29yZCI6IjEyMzQ1NiIsImV4cCI6MTcwMzUxODc2NiwiaXNzIjoiTXJIdWFuZyJ9.HHSyw9oDCkdWdoluiD69hU8IDukiBliahkzblOhEDkE	{"application": "West2"}
+2022-12-26T00:11:28.828+0800	info	F:/Project/GoProjects/demo03/com/west2/controller/NoteController.go:33		{"application": "West2"}
+2022-12-26T00:11:38.174+0800	info	F:/Project/GoProjects/demo03/com/west2/handler/HeaderHandler.go:14	eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRlc3QiLCJwYXNzd29yZCI6IjEyMzQ1NiIsImV4cCI6MTcwMzUxODc2NiwiaXNzIjoiTXJIdWFuZyJ9.HHSyw9oDCkdWdoluiD69hU8IDukiBliahkzblOhEDkE	{"application": "West2"}
+2022-12-26T00:11:38.174+0800	info	F:/Project/GoProjects/demo03/com/west2/controller/NoteController.go:33		{"application": "West2"}
+2022-12-26T00:11:57.276+0800	info	F:/Project/GoProjects/demo03/com/west2/handler/HeaderHandler.go:14	eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRlc3QiLCJwYXNzd29yZCI6IjEyMzQ1NiIsImV4cCI6MTcwMzUxODc2NiwiaXNzIjoiTXJIdWFuZyJ9.HHSyw9oDCkdWdoluiD69hU8IDukiBliahkzblOhEDkE	{"application": "West2"}
+2022-12-26T00:11:57.277+0800	info	F:/Project/GoProjects/demo03/com/west2/controller/NoteController.go:33		{"application": "West2"}
+2022-12-26T00:12:03.582+0800	info	F:/Project/GoProjects/demo03/com/west2/handler/HeaderHandler.go:14	eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRlc3QiLCJwYXNzd29yZCI6IjEyMzQ1NiIsImV4cCI6MTcwMzUxODc2NiwiaXNzIjoiTXJIdWFuZyJ9.HHSyw9oDCkdWdoluiD69hU8IDukiBliahkzblOhEDkE	{"application": "West2"}
+2022-12-26T00:12:03.583+0800	info	F:/Project/GoProjects/demo03/com/west2/controller/NoteController.go:33		{"application": "West2"}
+2022-12-26T00:12:04.404+0800	info	F:/Project/GoProjects/demo03/com/west2/handler/HeaderHandler.go:14	eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRlc3QiLCJwYXNzd29yZCI6IjEyMzQ1NiIsImV4cCI6MTcwMzUxODc2NiwiaXNzIjoiTXJIdWFuZyJ9.HHSyw9oDCkdWdoluiD69hU8IDukiBliahkzblOhEDkE	{"application": "West2"}
+2022-12-26T00:12:04.405+0800	info	F:/Project/GoProjects/demo03/com/west2/controller/NoteController.go:33		{"application": "West2"}
+2022-12-26T00:12:05.043+0800	info	F:/Project/GoProjects/demo03/com/west2/handler/HeaderHandler.go:14	eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRlc3QiLCJwYXNzd29yZCI6IjEyMzQ1NiIsImV4cCI6MTcwMzUxODc2NiwiaXNzIjoiTXJIdWFuZyJ9.HHSyw9oDCkdWdoluiD69hU8IDukiBliahkzblOhEDkE	{"application": "West2"}
+2022-12-26T00:12:05.043+0800	info	F:/Project/GoProjects/demo03/com/west2/controller/NoteController.go:33		{"application": "West2"}
+2022-12-26T00:12:27.328+0800	info	F:/Project/GoProjects/demo03/com/west2/handler/HeaderHandler.go:14		{"application": "West2"}
+2022-12-26T00:12:38.621+0800	info	F:/Project/GoProjects/demo03/com/west2/handler/HeaderHandler.go:14	eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRlc3QiLCJwYXNzd29yZCI6IjEyMzQ1NiIsImV4cCI6MTcwMzUxODc2NiwiaXNzIjoiTXJIdWFuZyJ9.HHSyw9oDCkdWdoluiD69hU8IDukiBliahkzblOhEDkE	{"application": "West2"}
+2022-12-26T00:12:38.622+0800	info	F:/Project/GoProjects/demo03/com/west2/controller/NoteController.go:33		{"application": "West2"}
+2022-12-26T00:13:13.649+0800	info	F:/Project/GoProjects/demo03/com/west2/config/log/logger.go:90	Logger init success	{"application": "West2"}
+2022-12-26T00:14:04.440+0800	info	F:/Project/GoProjects/demo03/com/west2/handler/HeaderHandler.go:13	access-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRlc3QiLCJwYXNzd29yZCI6IjEyMzQ1NiIsImV4cCI6MTcwMzUxODc2NiwiaXNzIjoiTXJIdWFuZyJ9.HHSyw9oDCkdWdoluiD69hU8IDukiBliahkzblOhEDkE	{"application": "West2"}
+2022-12-26T00:14:04.441+0800	info	F:/Project/GoProjects/demo03/com/west2/controller/NoteController.go:34		{"application": "West2"}
+2022-12-26T00:14:35.861+0800	info	F:/Project/GoProjects/demo03/com/west2/handler/HeaderHandler.go:13	access-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRlc3QiLCJwYXNzd29yZCI6IjEyMzQ1NiIsImV4cCI6MTcwMzUxODc2NiwiaXNzIjoiTXJIdWFuZyJ9.HHSyw9oDCkdWdoluiD69hU8IDukiBliahkzblOhEDkE	{"application": "West2"}
+2022-12-26T00:14:35.861+0800	info	F:/Project/GoProjects/demo03/com/west2/controller/NoteController.go:34		{"application": "West2"}
+2022-12-26T00:14:39.904+0800	info	F:/Project/GoProjects/demo03/com/west2/handler/HeaderHandler.go:13	access-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRlc3QiLCJwYXNzd29yZCI6IjEyMzQ1NiIsImV4cCI6MTcwMzUxODc2NiwiaXNzIjoiTXJIdWFuZyJ9.HHSyw9oDCkdWdoluiD69hU8IDukiBliahkzblOhEDkE	{"application": "West2"}
+2022-12-26T00:14:39.904+0800	info	F:/Project/GoProjects/demo03/com/west2/controller/NoteController.go:34		{"application": "West2"}
+2022-12-26T00:15:53.277+0800	info	F:/Project/GoProjects/demo03/com/west2/config/log/logger.go:90	Logger init success	{"application": "West2"}
+2022-12-26T00:15:55.388+0800	info	F:/Project/GoProjects/demo03/com/west2/handler/HeaderHandler.go:13	access-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRlc3QiLCJwYXNzd29yZCI6IjEyMzQ1NiIsImV4cCI6MTcwMzUxODc2NiwiaXNzIjoiTXJIdWFuZyJ9.HHSyw9oDCkdWdoluiD69hU8IDukiBliahkzblOhEDkE	{"application": "West2"}
+2022-12-26T00:15:55.389+0800	info	F:/Project/GoProjects/demo03/com/west2/controller/NoteController.go:34	test	{"application": "West2"}
+2022-12-26T00:16:30.304+0800	info	F:/Project/GoProjects/demo03/com/west2/handler/HeaderHandler.go:13	access-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRlc3QiLCJwYXNzd29yZCI6IjEyMzQ1NiIsImV4cCI6MTcwMzUxODc2NiwiaXNzIjoiTXJIdWFuZyJ9.HHSyw9oDCkdWdoluiD69hU8IDukiBliahkzblOhEDkE	{"application": "West2"}
+2022-12-26T00:16:30.304+0800	info	F:/Project/GoProjects/demo03/com/west2/controller/NoteController.go:34	test	{"application": "West2"}
+2022-12-26T00:16:32.163+0800	info	F:/Project/GoProjects/demo03/com/west2/handler/HeaderHandler.go:13	access-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRlc3QiLCJwYXNzd29yZCI6IjEyMzQ1NiIsImV4cCI6MTcwMzUxODc2NiwiaXNzIjoiTXJIdWFuZyJ9.HHSyw9oDCkdWdoluiD69hU8IDukiBliahkzblOhEDkE	{"application": "West2"}
+2022-12-26T00:16:32.163+0800	info	F:/Project/GoProjects/demo03/com/west2/controller/NoteController.go:34	test	{"application": "West2"}
+2022-12-26T00:29:16.771+0800	info	F:/Project/GoProjects/demo03/com/west2/config/log/logger.go:90	Logger init success	{"application": "West2"}
+2022-12-26T00:29:19.903+0800	info	F:/Project/GoProjects/demo03/com/west2/handler/HeaderHandler.go:13	access-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRlc3QiLCJwYXNzd29yZCI6IjEyMzQ1NiIsImV4cCI6MTcwMzUxODc2NiwiaXNzIjoiTXJIdWFuZyJ9.HHSyw9oDCkdWdoluiD69hU8IDukiBliahkzblOhEDkE	{"application": "West2"}
+2022-12-26T00:29:19.903+0800	info	F:/Project/GoProjects/demo03/com/west2/controller/NoteController.go:38	标题	{"application": "West2"}
+2022-12-26T00:31:53.095+0800	info	F:/Project/GoProjects/demo03/com/west2/handler/HeaderHandler.go:13	access-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRlc3QiLCJwYXNzd29yZCI6IjEyMzQ1NiIsImV4cCI6MTcwMzUxODc2NiwiaXNzIjoiTXJIdWFuZyJ9.HHSyw9oDCkdWdoluiD69hU8IDukiBliahkzblOhEDkE	{"application": "West2"}
+2022-12-26T00:31:53.096+0800	info	F:/Project/GoProjects/demo03/com/west2/controller/NoteController.go:38	标题	{"application": "West2"}
+2022-12-26T00:32:31.459+0800	info	F:/Project/GoProjects/demo03/com/west2/handler/HeaderHandler.go:13	access-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRlc3QiLCJwYXNzd29yZCI6IjEyMzQ1NiIsImV4cCI6MTcwMzUxODc2NiwiaXNzIjoiTXJIdWFuZyJ9.HHSyw9oDCkdWdoluiD69hU8IDukiBliahkzblOhEDkE	{"application": "West2"}
+2022-12-26T00:32:31.460+0800	info	F:/Project/GoProjects/demo03/com/west2/controller/NoteController.go:38	标题	{"application": "West2"}
+2022-12-26T00:33:56.553+0800	info	F:/Project/GoProjects/demo03/com/west2/config/log/logger.go:90	Logger init success	{"application": "West2"}
+2022-12-26T00:33:58.103+0800	info	F:/Project/GoProjects/demo03/com/west2/handler/HeaderHandler.go:13	access-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRlc3QiLCJwYXNzd29yZCI6IjEyMzQ1NiIsImV4cCI6MTcwMzUxODc2NiwiaXNzIjoiTXJIdWFuZyJ9.HHSyw9oDCkdWdoluiD69hU8IDukiBliahkzblOhEDkE	{"application": "West2"}
+2022-12-26T00:33:58.104+0800	info	F:/Project/GoProjects/demo03/com/west2/controller/NoteController.go:42		{"application": "West2"}
+2022-12-26T00:33:58.104+0800	info	F:/Project/GoProjects/demo03/com/west2/controller/NoteController.go:43	0001-01-01 00:00:00 +0000 UTC	{"application": "West2"}
+2022-12-26T00:34:49.848+0800	info	F:/Project/GoProjects/demo03/com/west2/config/log/logger.go:90	Logger init success	{"application": "West2"}
+2022-12-26T00:34:49.931+0800	info	F:/Project/GoProjects/demo03/com/west2/handler/HeaderHandler.go:13	access-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRlc3QiLCJwYXNzd29yZCI6IjEyMzQ1NiIsImV4cCI6MTcwMzUxODc2NiwiaXNzIjoiTXJIdWFuZyJ9.HHSyw9oDCkdWdoluiD69hU8IDukiBliahkzblOhEDkE	{"application": "West2"}
+2022-12-26T00:34:49.932+0800	info	F:/Project/GoProjects/demo03/com/west2/controller/NoteController.go:42		{"application": "West2"}
+2022-12-26T00:34:49.932+0800	info	F:/Project/GoProjects/demo03/com/west2/controller/NoteController.go:43	0001-01-01 00:00:00 +0000 UTC	{"application": "West2"}
+2022-12-26T00:36:24.944+0800	info	F:/Project/GoProjects/demo03/com/west2/config/log/logger.go:90	Logger init success	{"application": "West2"}
+2022-12-26T00:36:31.237+0800	info	F:/Project/GoProjects/demo03/com/west2/handler/HeaderHandler.go:13	access-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRlc3QiLCJwYXNzd29yZCI6IjEyMzQ1NiIsImV4cCI6MTcwMzUxODc2NiwiaXNzIjoiTXJIdWFuZyJ9.HHSyw9oDCkdWdoluiD69hU8IDukiBliahkzblOhEDkE	{"application": "West2"}
+2022-12-26T00:36:31.238+0800	info	F:/Project/GoProjects/demo03/com/west2/controller/NoteController.go:43	2022-12-26 00:36:31	{"application": "West2"}
+2022-12-26T00:36:31.238+0800	info	F:/Project/GoProjects/demo03/com/west2/controller/NoteController.go:44	2022-12-26 00:36:31 +0000 UTC	{"application": "West2"}
+2022-12-26T00:38:27.482+0800	info	F:/Project/GoProjects/demo03/com/west2/config/log/logger.go:90	Logger init success	{"application": "West2"}
+2022-12-26T00:38:32.339+0800	info	F:/Project/GoProjects/demo03/com/west2/handler/HeaderHandler.go:13	access-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRlc3QiLCJwYXNzd29yZCI6IjEyMzQ1NiIsImV4cCI6MTcwMzUxODc2NiwiaXNzIjoiTXJIdWFuZyJ9.HHSyw9oDCkdWdoluiD69hU8IDukiBliahkzblOhEDkE	{"application": "West2"}
+2022-12-26T00:38:32.339+0800	info	F:/Project/GoProjects/demo03/com/west2/controller/NoteController.go:44	2022-12-26 00:38:32	{"application": "West2"}
+2022-12-26T00:38:32.339+0800	info	F:/Project/GoProjects/demo03/com/west2/controller/NoteController.go:45	2022-12-26 00:38:32 +0000 UTC	{"application": "West2"}
+2022-12-26T00:38:57.909+0800	info	F:/Project/GoProjects/demo03/com/west2/config/log/logger.go:90	Logger init success	{"application": "West2"}
+2022-12-26T00:39:27.994+0800	info	F:/Project/GoProjects/demo03/com/west2/handler/HeaderHandler.go:13	access-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRlc3QiLCJwYXNzd29yZCI6IjEyMzQ1NiIsImV4cCI6MTcwMzUxODc2NiwiaXNzIjoiTXJIdWFuZyJ9.HHSyw9oDCkdWdoluiD69hU8IDukiBliahkzblOhEDkE	{"application": "West2"}
+2022-12-26T00:39:27.994+0800	info	F:/Project/GoProjects/demo03/com/west2/controller/NoteController.go:44		{"application": "West2"}
+2022-12-26T00:39:27.994+0800	info	F:/Project/GoProjects/demo03/com/west2/controller/NoteController.go:45	0001-01-01 00:00:00 +0000 UTC	{"application": "West2"}
+2022-12-26T00:42:16.947+0800	info	F:/Project/GoProjects/demo03/com/west2/config/log/logger.go:90	Logger init success	{"application": "West2"}
+2022-12-26T00:42:19.198+0800	info	F:/Project/GoProjects/demo03/com/west2/handler/HeaderHandler.go:13	access-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRlc3QiLCJwYXNzd29yZCI6IjEyMzQ1NiIsImV4cCI6MTcwMzUxODc2NiwiaXNzIjoiTXJIdWFuZyJ9.HHSyw9oDCkdWdoluiD69hU8IDukiBliahkzblOhEDkE	{"application": "West2"}
+2022-12-26T00:42:19.198+0800	info	F:/Project/GoProjects/demo03/com/west2/controller/NoteController.go:44	2022-12-26 00:42:19	{"application": "West2"}
+2022-12-26T00:42:19.199+0800	info	F:/Project/GoProjects/demo03/com/west2/controller/NoteController.go:45	2022-12-26 00:42:19 +0000 UTC	{"application": "West2"}
+2022-12-26T13:48:13.200+0800	info	F:/Project/GoProjects/demo03/com/west2/config/log/logger.go:90	Logger init success	{"application": "West2"}
+2022-12-26T13:49:11.208+0800	info	F:/Project/GoProjects/demo03/com/west2/handler/HeaderHandler.go:13	access-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRlc3QiLCJwYXNzd29yZCI6IjEyMzQ1NiIsImV4cCI6MTcwMzUxODc2NiwiaXNzIjoiTXJIdWFuZyJ9.HHSyw9oDCkdWdoluiD69hU8IDukiBliahkzblOhEDkE	{"application": "West2"}
+2022-12-26T13:50:22.793+0800	info	F:/Project/GoProjects/demo03/com/west2/handler/HeaderHandler.go:13	access-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRlc3QiLCJwYXNzd29yZCI6IjEyMzQ1NiIsImV4cCI6MTcwMzUxODc2NiwiaXNzIjoiTXJIdWFuZyJ9.HHSyw9oDCkdWdoluiD69hU8IDukiBliahkzblOhEDkE	{"application": "West2"}
+2022-12-26T13:50:33.393+0800	info	F:/Project/GoProjects/demo03/com/west2/handler/HeaderHandler.go:13	access-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRlc3QiLCJwYXNzd29yZCI6IjEyMzQ1NiIsImV4cCI6MTcwMzUxODc2NiwiaXNzIjoiTXJIdWFuZyJ9.HHSyw9oDCkdWdoluiD69hU8IDukiBliahkzblOhEDkE	{"application": "West2"}
+2022-12-26T13:50:58.815+0800	info	F:/Project/GoProjects/demo03/com/west2/handler/HeaderHandler.go:13	access-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRlc3QiLCJwYXNzd29yZCI6IjEyMzQ1NiIsImV4cCI6MTcwMzUxODc2NiwiaXNzIjoiTXJIdWFuZyJ9.HHSyw9oDCkdWdoluiD69hU8IDukiBliahkzblOhEDkE	{"application": "West2"}
+2022-12-26T13:52:41.877+0800	info	F:/Project/GoProjects/demo03/com/west2/handler/HeaderHandler.go:13	access-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRlc3QiLCJwYXNzd29yZCI6IjEyMzQ1NiIsImV4cCI6MTcwMzUxODc2NiwiaXNzIjoiTXJIdWFuZyJ9.HHSyw9oDCkdWdoluiD69hU8IDukiBliahkzblOhEDkE	{"application": "West2"}
+2022-12-26T13:53:55.880+0800	info	F:/Project/GoProjects/demo03/com/west2/handler/HeaderHandler.go:13	access-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRlc3QiLCJwYXNzd29yZCI6IjEyMzQ1NiIsImV4cCI6MTcwMzUxODc2NiwiaXNzIjoiTXJIdWFuZyJ9.HHSyw9oDCkdWdoluiD69hU8IDukiBliahkzblOhEDkE	{"application": "West2"}
+2022-12-26T13:54:47.601+0800	info	F:/Project/GoProjects/demo03/com/west2/config/log/logger.go:90	Logger init success	{"application": "West2"}
+2022-12-26T13:56:45.263+0800	info	F:/Project/GoProjects/demo03/com/west2/handler/HeaderHandler.go:13	access-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRlc3QiLCJwYXNzd29yZCI6IjEyMzQ1NiIsImV4cCI6MTcwMzUxODc2NiwiaXNzIjoiTXJIdWFuZyJ9.HHSyw9oDCkdWdoluiD69hU8IDukiBliahkzblOhEDkE	{"application": "West2"}
+2022-12-26T13:57:11.380+0800	info	F:/Project/GoProjects/demo03/com/west2/handler/HeaderHandler.go:13	access-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRlc3QiLCJwYXNzd29yZCI6IjEyMzQ1NiIsImV4cCI6MTcwMzUxODc2NiwiaXNzIjoiTXJIdWFuZyJ9.HHSyw9oDCkdWdoluiD69hU8IDukiBliahkzblOhEDkE	{"application": "West2"}
+2022-12-26T16:27:33.685+0800	info	F:/Project/GoProjects/demo03/com/west2/config/log/logger.go:90	Logger init success	{"application": "West2"}
+2022-12-26T16:32:03.865+0800	info	F:/Project/GoProjects/demo03/com/west2/config/log/logger.go:90	Logger init success	{"application": "West2"}
+2022-12-26T16:32:25.798+0800	info	F:/Project/GoProjects/demo03/com/west2/handler/HeaderHandler.go:13	access-token: 	{"application": "West2"}
+2022-12-26T16:42:02.003+0800	info	F:/Project/GoProjects/demo03/com/west2/handler/HeaderHandler.go:13	access-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRlc3QiLCJwYXNzd29yZCI6IjEyMzQ1NiIsImV4cCI6MTcwMzUxODc2NiwiaXNzIjoiTXJIdWFuZyJ9.HHSyw9oDCkdWdoluiD69hU8IDukiBliahkzblOhEDkE	{"application": "West2"}
+2022-12-26T16:43:15.106+0800	info	F:/Project/GoProjects/demo03/com/west2/handler/HeaderHandler.go:13	access-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRlc3QiLCJwYXNzd29yZCI6IjEyMzQ1NiIsImV4cCI6MTcwMzUxODc2NiwiaXNzIjoiTXJIdWFuZyJ9.HHSyw9oDCkdWdoluiD69hU8IDukiBliahkzblOhEDkE	{"application": "West2"}
+2022-12-26T16:43:28.818+0800	info	F:/Project/GoProjects/demo03/com/west2/handler/HeaderHandler.go:13	access-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRlc3QiLCJwYXNzd29yZCI6IjEyMzQ1NiIsImV4cCI6MTcwMzUxODc2NiwiaXNzIjoiTXJIdWFuZyJ9.HHSyw9oDCkdWdoluiD69hU8IDukiBliahkzblOhEDkE	{"application": "West2"}
+2022-12-26T18:18:54.648+0800	info	F:/Project/GoProjects/demo03/com/west2/config/log/logger.go:90	Logger init success	{"application": "West2"}
+2022-12-26T18:19:06.715+0800	info	F:/Project/GoProjects/demo03/com/west2/handler/HeaderHandler.go:13	access-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRlc3QiLCJwYXNzd29yZCI6IjEyMzQ1NiIsImV4cCI6MTcwMzUxODc2NiwiaXNzIjoiTXJIdWFuZyJ9.HHSyw9oDCkdWdoluiD69hU8IDukiBliahkzblOhEDkE	{"application": "West2"}
+2022-12-26T18:19:42.152+0800	info	F:/Project/GoProjects/demo03/com/west2/config/log/logger.go:90	Logger init success	{"application": "West2"}
+2022-12-26T18:20:11.421+0800	info	F:/Project/GoProjects/demo03/com/west2/handler/HeaderHandler.go:13	access-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRlc3QiLCJwYXNzd29yZCI6IjEyMzQ1NiIsImV4cCI6MTcwMzUxODc2NiwiaXNzIjoiTXJIdWFuZyJ9.HHSyw9oDCkdWdoluiD69hU8IDukiBliahkzblOhEDkE	{"application": "West2"}
+2022-12-26T18:21:31.682+0800	info	F:/Project/GoProjects/demo03/com/west2/config/log/logger.go:90	Logger init success	{"application": "West2"}
+2022-12-26T18:21:44.232+0800	info	F:/Project/GoProjects/demo03/com/west2/handler/HeaderHandler.go:13	access-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRlc3QiLCJwYXNzd29yZCI6IjEyMzQ1NiIsImV4cCI6MTcwMzUxODc2NiwiaXNzIjoiTXJIdWFuZyJ9.HHSyw9oDCkdWdoluiD69hU8IDukiBliahkzblOhEDkE	{"application": "West2"}
+2022-12-26T18:22:08.153+0800	info	F:/Project/GoProjects/demo03/com/west2/config/log/logger.go:90	Logger init success	{"application": "West2"}
+2022-12-26T18:24:16.555+0800	info	F:/Project/GoProjects/demo03/com/west2/handler/HeaderHandler.go:13	access-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRlc3QiLCJwYXNzd29yZCI6IjEyMzQ1NiIsImV4cCI6MTcwMzUxODc2NiwiaXNzIjoiTXJIdWFuZyJ9.HHSyw9oDCkdWdoluiD69hU8IDukiBliahkzblOhEDkE	{"application": "West2"}
+2022-12-26T18:26:05.911+0800	info	F:/Project/GoProjects/demo03/com/west2/handler/HeaderHandler.go:13	access-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRlc3QiLCJwYXNzd29yZCI6IjEyMzQ1NiIsImV4cCI6MTcwMzUxODc2NiwiaXNzIjoiTXJIdWFuZyJ9.HHSyw9oDCkdWdoluiD69hU8IDukiBliahkzblOhEDkE	{"application": "West2"}
+2022-12-26T18:26:08.617+0800	info	F:/Project/GoProjects/demo03/com/west2/handler/HeaderHandler.go:13	access-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRlc3QiLCJwYXNzd29yZCI6IjEyMzQ1NiIsImV4cCI6MTcwMzUxODc2NiwiaXNzIjoiTXJIdWFuZyJ9.HHSyw9oDCkdWdoluiD69hU8IDukiBliahkzblOhEDkE	{"application": "West2"}
+2022-12-26T18:26:10.996+0800	info	F:/Project/GoProjects/demo03/com/west2/handler/HeaderHandler.go:13	access-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRlc3QiLCJwYXNzd29yZCI6IjEyMzQ1NiIsImV4cCI6MTcwMzUxODc2NiwiaXNzIjoiTXJIdWFuZyJ9.HHSyw9oDCkdWdoluiD69hU8IDukiBliahkzblOhEDkE	{"application": "West2"}
+2022-12-26T18:26:14.674+0800	info	F:/Project/GoProjects/demo03/com/west2/handler/HeaderHandler.go:13	access-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRlc3QiLCJwYXNzd29yZCI6IjEyMzQ1NiIsImV4cCI6MTcwMzUxODc2NiwiaXNzIjoiTXJIdWFuZyJ9.HHSyw9oDCkdWdoluiD69hU8IDukiBliahkzblOhEDkE	{"application": "West2"}
+2022-12-26T18:26:34.976+0800	info	F:/Project/GoProjects/demo03/com/west2/handler/HeaderHandler.go:13	access-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRlc3QiLCJwYXNzd29yZCI6IjEyMzQ1NiIsImV4cCI6MTcwMzUxODc2NiwiaXNzIjoiTXJIdWFuZyJ9.HHSyw9oDCkdWdoluiD69hU8IDukiBliahkzblOhEDkE	{"application": "West2"}
+2022-12-26T18:26:38.048+0800	info	F:/Project/GoProjects/demo03/com/west2/handler/HeaderHandler.go:13	access-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRlc3QiLCJwYXNzd29yZCI6IjEyMzQ1NiIsImV4cCI6MTcwMzUxODc2NiwiaXNzIjoiTXJIdWFuZyJ9.HHSyw9oDCkdWdoluiD69hU8IDukiBliahkzblOhEDkE	{"application": "West2"}
+2022-12-26T18:26:40.879+0800	info	F:/Project/GoProjects/demo03/com/west2/handler/HeaderHandler.go:13	access-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRlc3QiLCJwYXNzd29yZCI6IjEyMzQ1NiIsImV4cCI6MTcwMzUxODc2NiwiaXNzIjoiTXJIdWFuZyJ9.HHSyw9oDCkdWdoluiD69hU8IDukiBliahkzblOhEDkE	{"application": "West2"}
+2022-12-26T18:26:48.297+0800	info	F:/Project/GoProjects/demo03/com/west2/handler/HeaderHandler.go:13	access-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRlc3QiLCJwYXNzd29yZCI6IjEyMzQ1NiIsImV4cCI6MTcwMzUxODc2NiwiaXNzIjoiTXJIdWFuZyJ9.HHSyw9oDCkdWdoluiD69hU8IDukiBliahkzblOhEDkE	{"application": "West2"}
+2022-12-26T18:27:31.061+0800	info	F:/Project/GoProjects/demo03/com/west2/config/log/logger.go:90	Logger init success	{"application": "West2"}
+2022-12-26T18:27:56.485+0800	info	F:/Project/GoProjects/demo03/com/west2/handler/HeaderHandler.go:13	access-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRlc3QiLCJwYXNzd29yZCI6IjEyMzQ1NiIsImV4cCI6MTcwMzUxODc2NiwiaXNzIjoiTXJIdWFuZyJ9.HHSyw9oDCkdWdoluiD69hU8IDukiBliahkzblOhEDkE	{"application": "West2"}
+2022-12-26T18:34:04.151+0800	info	F:/Project/GoProjects/demo03/com/west2/config/log/logger.go:90	Logger init success	{"application": "West2"}
+2022-12-26T18:34:19.556+0800	info	F:/Project/GoProjects/demo03/com/west2/handler/HeaderHandler.go:13	access-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRlc3QiLCJwYXNzd29yZCI6IjEyMzQ1NiIsImV4cCI6MTcwMzUxODc2NiwiaXNzIjoiTXJIdWFuZyJ9.HHSyw9oDCkdWdoluiD69hU8IDukiBliahkzblOhEDkE	{"application": "West2"}
+2022-12-26T18:37:50.751+0800	info	F:/Project/GoProjects/demo03/com/west2/config/log/logger.go:90	Logger init success	{"application": "West2"}
+2022-12-26T18:37:53.982+0800	info	F:/Project/GoProjects/demo03/com/west2/handler/HeaderHandler.go:13	access-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRlc3QiLCJwYXNzd29yZCI6IjEyMzQ1NiIsImV4cCI6MTcwMzUxODc2NiwiaXNzIjoiTXJIdWFuZyJ9.HHSyw9oDCkdWdoluiD69hU8IDukiBliahkzblOhEDkE	{"application": "West2"}
+2022-12-26T18:38:12.617+0800	info	F:/Project/GoProjects/demo03/com/west2/config/log/logger.go:90	Logger init success	{"application": "West2"}
+2022-12-26T18:38:51.291+0800	info	F:/Project/GoProjects/demo03/com/west2/handler/HeaderHandler.go:13	access-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRlc3QiLCJwYXNzd29yZCI6IjEyMzQ1NiIsImV4cCI6MTcwMzUxODc2NiwiaXNzIjoiTXJIdWFuZyJ9.HHSyw9oDCkdWdoluiD69hU8IDukiBliahkzblOhEDkE	{"application": "West2"}
+2022-12-26T18:39:25.751+0800	info	F:/Project/GoProjects/demo03/com/west2/config/log/logger.go:90	Logger init success	{"application": "West2"}
+2022-12-26T18:40:10.168+0800	info	F:/Project/GoProjects/demo03/com/west2/handler/HeaderHandler.go:13	access-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRlc3QiLCJwYXNzd29yZCI6IjEyMzQ1NiIsImV4cCI6MTcwMzUxODc2NiwiaXNzIjoiTXJIdWFuZyJ9.HHSyw9oDCkdWdoluiD69hU8IDukiBliahkzblOhEDkE	{"application": "West2"}
+2022-12-26T18:40:26.629+0800	info	F:/Project/GoProjects/demo03/com/west2/config/log/logger.go:90	Logger init success	{"application": "West2"}
+2022-12-26T18:40:44.769+0800	info	F:/Project/GoProjects/demo03/com/west2/config/log/logger.go:90	Logger init success	{"application": "West2"}
+2022-12-26T18:40:50.342+0800	info	F:/Project/GoProjects/demo03/com/west2/handler/HeaderHandler.go:13	access-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRlc3QiLCJwYXNzd29yZCI6IjEyMzQ1NiIsImV4cCI6MTcwMzUxODc2NiwiaXNzIjoiTXJIdWFuZyJ9.HHSyw9oDCkdWdoluiD69hU8IDukiBliahkzblOhEDkE	{"application": "West2"}
+2022-12-26T18:41:14.571+0800	info	F:/Project/GoProjects/demo03/com/west2/handler/HeaderHandler.go:13	access-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRlc3QiLCJwYXNzd29yZCI6IjEyMzQ1NiIsImV4cCI6MTcwMzUxODc2NiwiaXNzIjoiTXJIdWFuZyJ9.HHSyw9oDCkdWdoluiD69hU8IDukiBliahkzblOhEDkE	{"application": "West2"}
+2022-12-26T18:41:21.875+0800	info	F:/Project/GoProjects/demo03/com/west2/handler/HeaderHandler.go:13	access-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRlc3QiLCJwYXNzd29yZCI6IjEyMzQ1NiIsImV4cCI6MTcwMzUxODc2NiwiaXNzIjoiTXJIdWFuZyJ9.HHSyw9oDCkdWdoluiD69hU8IDukiBliahkzblOhEDkE	{"application": "West2"}
+2022-12-26T18:45:43.833+0800	info	F:/Project/GoProjects/demo03/com/west2/config/log/logger.go:90	Logger init success	{"application": "West2"}
+2022-12-26T18:45:48.721+0800	info	F:/Project/GoProjects/demo03/com/west2/handler/HeaderHandler.go:13	access-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRlc3QiLCJwYXNzd29yZCI6IjEyMzQ1NiIsImV4cCI6MTcwMzUxODc2NiwiaXNzIjoiTXJIdWFuZyJ9.HHSyw9oDCkdWdoluiD69hU8IDukiBliahkzblOhEDkE	{"application": "West2"}
+2022-12-26T18:50:20.481+0800	info	F:/Project/GoProjects/demo03/com/west2/config/log/logger.go:90	Logger init success	{"application": "West2"}
+2022-12-26T18:50:35.118+0800	info	F:/Project/GoProjects/demo03/com/west2/handler/HeaderHandler.go:13	access-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRlc3QiLCJwYXNzd29yZCI6IjEyMzQ1NiIsImV4cCI6MTcwMzUxODc2NiwiaXNzIjoiTXJIdWFuZyJ9.HHSyw9oDCkdWdoluiD69hU8IDukiBliahkzblOhEDkE	{"application": "West2"}
+2022-12-26T18:51:59.335+0800	info	F:/Project/GoProjects/demo03/com/west2/config/log/logger.go:90	Logger init success	{"application": "West2"}
+2022-12-26T18:52:03.419+0800	info	F:/Project/GoProjects/demo03/com/west2/handler/HeaderHandler.go:13	access-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRlc3QiLCJwYXNzd29yZCI6IjEyMzQ1NiIsImV4cCI6MTcwMzUxODc2NiwiaXNzIjoiTXJIdWFuZyJ9.HHSyw9oDCkdWdoluiD69hU8IDukiBliahkzblOhEDkE	{"application": "West2"}
