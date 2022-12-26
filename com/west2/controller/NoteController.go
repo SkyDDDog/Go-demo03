@@ -38,7 +38,7 @@ func NoteControllerRegister(noteGrp *gin.RouterGroup) {
 // @Tags			NoteController
 // @Accept			json
 // @Produce		json
-// @param			string	body		string	false  "note"
+// @param			string	body		string	false	"note"
 // @Success		200		{object}	string
 // @Router			/note [post]
 func (controller NoteController) createNote(c *gin.Context) {
@@ -61,7 +61,7 @@ func (controller NoteController) createNote(c *gin.Context) {
 // @Summary		完成待办
 // @Description	将 一条 代办事项设置为已完成
 // @Tags			NoteController
-// @param			string	path		string	false  "note"
+// @param			string	path		string	false	"note"
 // @Success		200		{object}	string
 // @Router			/note/done/{id} [PUT]
 func (controller NoteController) DoneNote(c *gin.Context) {
@@ -73,7 +73,7 @@ func (controller NoteController) DoneNote(c *gin.Context) {
 // @Summary		设为待办
 // @Description	将 一条 已完成事项设置为待办
 // @Tags			NoteController
-// @param			string	path		string	false  "note"
+// @param			string	path		string	false	"note"
 // @Success		200		{object}	string
 // @Router			/note/undo/{id} [PUT]
 func (controller NoteController) UndoNote(c *gin.Context) {
@@ -85,7 +85,7 @@ func (controller NoteController) UndoNote(c *gin.Context) {
 // @Summary		完成待办
 // @Description	将 多条 代办事项设置为已完成
 // @Tags			NoteController
-// @Success		200		{object}	string
+// @Success		200	{object}	string
 // @Router			/note/done [PUT]
 func (controller NoteController) DoneAllNote(c *gin.Context) {
 	service.Service.UpdateAllNoteState("1")
@@ -95,7 +95,7 @@ func (controller NoteController) DoneAllNote(c *gin.Context) {
 // @Summary		设为待办
 // @Description	将 多条 已完成事项设置为待办
 // @Tags			NoteController
-// @Success		200		{object}	string
+// @Success		200	{object}	string
 // @Router			/note/undo [PUT]
 func (controller NoteController) UndoAllNote(c *gin.Context) {
 	service.Service.UpdateAllNoteState("0")
@@ -105,7 +105,7 @@ func (controller NoteController) UndoAllNote(c *gin.Context) {
 // @Summary		删除事项
 // @Description	删除 一条 事项
 // @Tags			NoteController
-// @param			string	path		string	false  "id"
+// @param			string	path		string	false	"id"
 // @Success		200		{object}	string
 // @Router			/note/{id} [DELETE]
 func (controller NoteController) DeleteNote(c *gin.Context) {
@@ -117,7 +117,7 @@ func (controller NoteController) DeleteNote(c *gin.Context) {
 // @Summary		删除事项
 // @Description	删除 所有已经完成 事项
 // @Tags			NoteController
-// @Success		200		{object}	string
+// @Success		200	{object}	string
 // @Router			/note/done [DELETE]
 func (controller NoteController) DeleteDoneNote(c *gin.Context) {
 	service.Service.DeleteNoteByState("1")
@@ -127,7 +127,7 @@ func (controller NoteController) DeleteDoneNote(c *gin.Context) {
 // @Summary		删除事项
 // @Description	删除 所有待办 事项
 // @Tags			NoteController
-// @Success		200		{object}	string
+// @Success		200	{object}	string
 // @Router			/note/undo [DELETE]
 func (controller NoteController) DeleteUndoNote(c *gin.Context) {
 	service.Service.DeleteNoteByState("0")
@@ -137,7 +137,7 @@ func (controller NoteController) DeleteUndoNote(c *gin.Context) {
 // @Summary		删除事项
 // @Description	删除 所有 事项
 // @Tags			NoteController
-// @Success		200		{object}	string
+// @Success		200	{object}	string
 // @Router			/note/all [DELETE]
 func (controller NoteController) DeleteAllNote(c *gin.Context) {
 	service.Service.DeleteAllNote()
@@ -147,9 +147,9 @@ func (controller NoteController) DeleteAllNote(c *gin.Context) {
 // @Summary		查看事项
 // @Description	查看所有事项
 // @Tags			NoteController
-// @Param 	query string true "pageNum" 第几页
-// @Param 	query string true "pageSize" 一页几条数据
-// @Success		200		{object}	string
+// @Param			pageNum		query		string	true	"pageNum"
+// @Param			pageSIze	query		string	true	"pageSize"
+// @Success		200			{object}	string
 // @Router			/note [Get]
 func (controller NoteController) GetAllNote(c *gin.Context) {
 	pageNum := c.DefaultQuery("pageNum", "1")
@@ -163,9 +163,9 @@ func (controller NoteController) GetAllNote(c *gin.Context) {
 // @Summary		查看事项
 // @Description	查看所有已完成事项
 // @Tags			NoteController
-// @Param 	query string true "pageNum" 第几页
-// @Param 	query string true "pageSize" 一页几条数据
-// @Success		200		{object}	string
+// @Param			pageNum		query		string	true	"pageNum"
+// @Param			pageSIze	query		string	true	"pageSize"
+// @Success		200			{object}	string
 // @Router			/note/done [Get]
 func (controller NoteController) GetDoneNote(c *gin.Context) {
 	pageNum := c.DefaultQuery("pageNum", "1")
@@ -179,9 +179,9 @@ func (controller NoteController) GetDoneNote(c *gin.Context) {
 // @Summary		查看事项
 // @Description	查看所有待办事项
 // @Tags			NoteController
-// @Param 	query string true "pageNum" 第几页
-// @Param 	query string true "pageSize" 一页几条数据
-// @Success		200		{object}	string
+// @Param			pageNum		query		string	true	"pageNum"
+// @Param			pageSIze	query		string	true	"pageSize"
+// @Success		200			{object}	string
 // @Router			/note/done [Get]
 func (controller NoteController) GetUndoNote(c *gin.Context) {
 	pageNum := c.DefaultQuery("pageNum", "1")
@@ -195,10 +195,10 @@ func (controller NoteController) GetUndoNote(c *gin.Context) {
 // @Summary		查询事项
 // @Description	输入关键词查询事项
 // @Tags			NoteController
-// @Param   path  string true  "content" 搜索关键词
-// @Param 	query string true "pageNum" 第几页
-// @Param 	query string true "pageSize" 一页几条数据
-// @Success		200		{object}	string
+// @Param			content		path		string	true	"content"
+// @Param			pageNum		query		string	true	"pageNum"
+// @Param			pageSIze	query		string	true	"pageSize"
+// @Success		200			{object}	string
 // @Router			/note/done/{content} [Get]
 func (controller NoteController) SearchNote(c *gin.Context) {
 	content := c.Param("content")

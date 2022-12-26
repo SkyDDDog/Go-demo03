@@ -10,22 +10,44 @@ const docTemplate = `{
     "info": {
         "description": "{{escape .Description}}",
         "title": "{{.Title}}",
-        "termsOfService": "https://github.com/SkyDDDog/demo03",
-        "contact": {
-            "name": "二火",
-            "url": "https://github.com/SkyDDDog",
-            "email": "lear_yd@qq.com"
-        },
-        "license": {
-            "name": "Apache 2.0",
-            "url": "http://www.apache.org/licenses/LICENSE-2.0.html"
-        },
+        "contact": {},
         "version": "{{.Version}}"
     },
     "host": "{{.Host}}",
     "basePath": "{{.BasePath}}",
     "paths": {
         "/note": {
+            "get": {
+                "description": "查看所有事项",
+                "tags": [
+                    "NoteController"
+                ],
+                "summary": "查看事项",
+                "parameters": [
+                    {
+                        "type": "string",
+                        "description": "pageNum",
+                        "name": "pageNum",
+                        "in": "query",
+                        "required": true
+                    },
+                    {
+                        "type": "string",
+                        "description": "pageSize",
+                        "name": "pageSIze",
+                        "in": "query",
+                        "required": true
+                    }
+                ],
+                "responses": {
+                    "200": {
+                        "description": "OK",
+                        "schema": {
+                            "type": "string"
+                        }
+                    }
+                }
+            },
             "post": {
                 "description": "添加一条待办事项",
                 "consumes": [
@@ -76,6 +98,37 @@ const docTemplate = `{
             }
         },
         "/note/done": {
+            "get": {
+                "description": "查看所有待办事项",
+                "tags": [
+                    "NoteController"
+                ],
+                "summary": "查看事项",
+                "parameters": [
+                    {
+                        "type": "string",
+                        "description": "pageNum",
+                        "name": "pageNum",
+                        "in": "query",
+                        "required": true
+                    },
+                    {
+                        "type": "string",
+                        "description": "pageSize",
+                        "name": "pageSIze",
+                        "in": "query",
+                        "required": true
+                    }
+                ],
+                "responses": {
+                    "200": {
+                        "description": "OK",
+                        "schema": {
+                            "type": "string"
+                        }
+                    }
+                }
+            },
             "put": {
                 "description": "将 多条 代办事项设置为已完成",
                 "tags": [
@@ -97,6 +150,46 @@ const docTemplate = `{
                     "NoteController"
                 ],
                 "summary": "删除事项",
+                "responses": {
+                    "200": {
+                        "description": "OK",
+                        "schema": {
+                            "type": "string"
+                        }
+                    }
+                }
+            }
+        },
+        "/note/done/{content}": {
+            "get": {
+                "description": "输入关键词查询事项",
+                "tags": [
+                    "NoteController"
+                ],
+                "summary": "查询事项",
+                "parameters": [
+                    {
+                        "type": "string",
+                        "description": "content",
+                        "name": "content",
+                        "in": "path",
+                        "required": true
+                    },
+                    {
+                        "type": "string",
+                        "description": "pageNum",
+                        "name": "pageNum",
+                        "in": "query",
+                        "required": true
+                    },
+                    {
+                        "type": "string",
+                        "description": "pageSize",
+                        "name": "pageSIze",
+                        "in": "query",
+                        "required": true
+                    }
+                ],
                 "responses": {
                     "200": {
                         "description": "OK",
@@ -308,12 +401,12 @@ const docTemplate = `{
 
 // SwaggerInfo holds exported Swagger Info so clients can modify it
 var SwaggerInfo = &swag.Spec{
-	Version:          "1.0",
-	Host:             "127.0.0.1:1234",
-	BasePath:         "/api",
+	Version:          "",
+	Host:             "",
+	BasePath:         "",
 	Schemes:          []string{},
-	Title:            "小黄老师备忘录",
-	Description:      "West2-Golang-Demo03",
+	Title:            "",
+	Description:      "",
 	InfoInstanceName: "swagger",
 	SwaggerTemplate:  docTemplate,
 }
